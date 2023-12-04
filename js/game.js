@@ -146,7 +146,9 @@ class Game{
 
         gameOver() {
         //     preencha com a cor branca
+        fill("white")
         //  imprimir a mensagem de fim de jogo
+        text("cabo",500,300)
         }
             
 
